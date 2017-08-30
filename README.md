@@ -1,4 +1,4 @@
-#v4.4 커널에서 블럭 디바이스 드라이버 만들기
+# v4.4 커널에서 블럭 디바이스 드라이버 만들기
 
 최근..은 아니고 몇년전 리눅스 커널에 큰 변화가 있었습니다. 커널에서 가장 성능에 민감한 부분이 메모리 할당과 블럭 장치인데요, 블럭 장치 관련 코드에 대규모 패치가 들어갔습니다.
 
@@ -35,9 +35,6 @@ PS.
 
 https://www.kernel.org/doc/gorman/pdf/understand.pdf
 
-이 책을 번역해보려고 했던 적이 있었습니다. 커널 자체가 낯선 분들은 한글 자료를 먼저 보시면 도움이 되실것입니다.
-
-https://gurugio.kldp.net/wiki/wiki.php/gurugio/MemoryManagement
 
 
 # INDEX
