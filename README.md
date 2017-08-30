@@ -35,6 +35,9 @@ PS.
 
 https://www.kernel.org/doc/gorman/pdf/understand.pdf
 
+제가 위의 문서를 약간 번역한 자료입니다.
+https://github.com/gurugio/book_linuxkernel_blockdrv_ko/blob/master/buddyslab_main_functions.pdf
+https://github.com/gurugio/book_linuxkernel_blockdrv_ko/blob/master/understanding_buddy_slab.pdf
 
 
 # INDEX
